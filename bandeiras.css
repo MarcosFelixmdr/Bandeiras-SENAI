@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+.container-principal{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+*//*.polônia{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.itália{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.japão{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.suécia{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.trinidadetobago{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.guinébissau{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.kuwait{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.grécia{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.brasil{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.macedônia{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
